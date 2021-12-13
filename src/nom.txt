@@ -1,0 +1,5 @@
+2 petit_deg bsisa entree 789 
+ 3 3 3 3 3 
+ 789 dejeuner viande Plat_principale 113 
+ 788 dejeuner salade Plat_principale 78 
+ 
